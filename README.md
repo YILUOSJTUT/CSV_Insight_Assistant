@@ -1,7 +1,3 @@
-Sure! Here’s your cleaned-up, plain text version of the README with proper formatting, indentation, and no Markdown symbols — great for documentation, sharing, or editing in any text editor:
-
-⸻
-
 📊 CSV Insight Assistant (with DeepSeek)
 Author: YILUO
 Date: 2025-03-27
